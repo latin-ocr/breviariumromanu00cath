@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./breviariumromanu00cath_0022.png"; bbox 0 0 1916 3243; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 574 1326 1382 1362">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 574 1326 1382 1362">
+     <span class='ocr_line' id='line_1_1' title="bbox 574 1326 1382 1362; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 574 1328 688 1362; x_wconf 89' lang='lat' dir='ltr'>NON</span> <span class='ocrx_word' id='word_1_2' title='bbox 727 1327 980 1362; x_wconf 83' lang='lat' dir='ltr'><strong>RECEDAT</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1015 1327 1279 1361; x_wconf 88' lang='lat' dir='ltr'>VOLVMEN</span> <span class='ocrx_word' id='word_1_4' title='bbox 1318 1326 1382 1359; x_wconf 85' lang='lat' dir='ltr'>LE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 641 1442 1312 1478">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 641 1442 1312 1478">
+     <span class='ocr_line' id='line_1_2' title="bbox 641 1442 1312 1478; baseline -0.003 0"><span class='ocrx_word' id='word_1_5' title='bbox 641 1444 726 1478; x_wconf 89' lang='lat' dir='ltr'>GIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 764 1443 926 1477; x_wconf 88' lang='lat' dir='ltr'>HVIVS</span> <span class='ocrx_word' id='word_1_7' title='bbox 961 1443 1028 1476; x_wconf 82' lang='lat' dir='ltr'>AB</span> <span class='ocrx_word' id='word_1_8' title='bbox 1066 1443 1172 1476; x_wconf 89' lang='lat' dir='ltr'>ORE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1207 1442 1312 1476; x_wconf 88' lang='lat' dir='ltr'>TVO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 612 1557 1352 1592">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 612 1557 1352 1592">
+     <span class='ocr_line' id='line_1_3' title="bbox 612 1557 1352 1592; baseline -0.003 0"><span class='ocrx_word' id='word_1_10' title='bbox 612 1558 713 1592; x_wconf 86' lang='lat' dir='ltr'>SED</span> <span class='ocrx_word' id='word_1_11' title='bbox 759 1557 1134 1592; x_wconf 86' lang='lat' dir='ltr'><strong>MEDITABERIS</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1180 1558 1236 1591; x_wconf 92' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_13' title='bbox 1282 1557 1352 1590; x_wconf 88' lang='lat' dir='ltr'>EO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 682 1673 1292 1708">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 682 1673 1292 1708">
+     <span class='ocr_line' id='line_1_4' title="bbox 682 1673 1292 1708; baseline -0.002 -1"><span class='ocrx_word' id='word_1_14' title='bbox 682 1673 878 1708; x_wconf 87' lang='lat' dir='ltr'>DIEBVS</span> <span class='ocrx_word' id='word_1_15' title='bbox 911 1674 978 1708; x_wconf 89' lang='lat' dir='ltr'>AC</span> <span class='ocrx_word' id='word_1_16' title='bbox 1015 1673 1292 1708; x_wconf 86' lang='lat' dir='ltr'>NOCTIBVS.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
